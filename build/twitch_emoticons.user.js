@@ -14,7 +14,7 @@
 (function () {
 'use strict';
 
-var emoteUrl = '//cdn.rawgit.com/dogancelik/irccloud-twitch-emoticons/master/build/emotes.all.json';
+var emoteUrl = '//cdn.rawgit.com/vibend/irccloud-twitch-emoticons/master/build/emotes.all.json';
 var loadedEmotes = {};
 var templateTwitch = '<img src="//static-cdn.jtvnw.net/emoticons/v1/:id/1.0" alt=":name" title=":name">';
 var templateBetterttv = '<img src=":src" alt=":name" title=":name">';

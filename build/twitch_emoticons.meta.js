@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Twitch Emoticons
-// @namespace   dogancelik.com
+// @namespace   vibend
 // @description Enables Twitch emoticons in IRCCloud
 // @include     https://www.irccloud.com/*
 // @version     2.0.0
